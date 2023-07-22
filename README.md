@@ -24,7 +24,7 @@ CONTAINER ID   IMAGE         COMMAND       CREATED              STATUS          
 
 ```
 
-- Navigate to http://localhost:8000 in the web browser find the following json response:
+- Navigate to http://localhost:8000 in the web browser to find the following json response:
 ```text
 {
 "message": "OK"

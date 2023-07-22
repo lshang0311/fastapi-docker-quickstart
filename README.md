@@ -1,4 +1,12 @@
-# Deploy with docker compose
+# FastAPI and Docker Quick Start
+
+This quick start was modified from:
+- [awesome-compose/fastapi](https://github.com/docker/awesome-compose/tree/master/fastapi)
+
+- [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
+
+
+## Steps to Deploy with docker compose
 
 - From the root folder `fastapi`, run
 ```commandline
@@ -23,13 +31,7 @@ CONTAINER ID   IMAGE         COMMAND       CREATED              STATUS          
 }
 ```
 
-# FastAPI and Docker Quick Start
-
-- Slightly modified from [awesome-compose/fastapi](https://github.com/docker/awesome-compose/tree/master/fastapi)
-
-- Also see [FastAPI in Containers - Docker](https://fastapi.tiangolo.com/deployment/docker/)
-
-# Destroy ALL
+## Destroy ALL
 
 * Stop and remove all running containers:
 
